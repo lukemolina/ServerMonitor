@@ -1,0 +1,10 @@
+C:\Users\Luke\Documents\MEGA\Projects\ServerMonitor\ServerMonitor\bin\Debug\ServerMonitor.exe.config
+C:\Users\Luke\Documents\MEGA\Projects\ServerMonitor\ServerMonitor\bin\Debug\ServerMonitor.exe
+C:\Users\Luke\Documents\MEGA\Projects\ServerMonitor\ServerMonitor\bin\Debug\ServerMonitor.pdb
+C:\Users\Luke\Documents\MEGA\Projects\ServerMonitor\ServerMonitor\bin\Debug\ServerMonitor.xml
+C:\Users\Luke\Documents\MEGA\Projects\ServerMonitor\ServerMonitor\obj\Debug\ServerMonitor.frmMain.resources
+C:\Users\Luke\Documents\MEGA\Projects\ServerMonitor\ServerMonitor\obj\Debug\ServerMonitor.Resources.resources
+C:\Users\Luke\Documents\MEGA\Projects\ServerMonitor\ServerMonitor\obj\Debug\ServerMonitor.vbproj.GenerateResource.Cache
+C:\Users\Luke\Documents\MEGA\Projects\ServerMonitor\ServerMonitor\obj\Debug\ServerMonitor.exe
+C:\Users\Luke\Documents\MEGA\Projects\ServerMonitor\ServerMonitor\obj\Debug\ServerMonitor.xml
+C:\Users\Luke\Documents\MEGA\Projects\ServerMonitor\ServerMonitor\obj\Debug\ServerMonitor.pdb
